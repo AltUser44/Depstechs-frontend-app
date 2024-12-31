@@ -1,8 +1,7 @@
-Frontend - E-Commerce Project
-This repository contains the frontend code for an e-commerce application built using React. It is part of a full-stack e-commerce project using the MERN stack (MongoDB, Express.js, React, Node.js).
 
-Demo
-You can view the live demo of the project here: E-Commerce Frontend Demo
+**Demo***
+
+You can view the live demo of the project here: https://depstechs-frontend-app.vercel.app/
 
 Features
 Responsive Design: Fully responsive UI that works across all devices.
@@ -16,10 +15,10 @@ React.js: For building the user interface.
 Axios: For making API requests to the backend.
 Redux: For state management.
 CSS/SCSS: For styling and responsiveness.
-Installation
+
+
+***Installation***
 To run this project locally:
-
-
 Clone this repository:
 bash
 Copy code
@@ -52,6 +51,7 @@ Copy code
 /redux             # Redux store, actions, and reducers
 /assets            # Images and other static assets
 /utils             # Utility functions
+
 Contributing
 Feel free to fork this repository, submit issues, or create pull requests. Contributions are welcome!
 
